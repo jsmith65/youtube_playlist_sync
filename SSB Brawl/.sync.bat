@@ -1,0 +1,2 @@
+cd "F:\YouTube Playlists\SSB Brawl"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .ssb_brawl --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PL3EFBCEEBD4B69B06

@@ -1,0 +1,2 @@
+cd "F:\YouTube Playlists\Inspiring Musical Performances"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .inspiring_musical_performances --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqroXHTjmNG8m54klWvccVR

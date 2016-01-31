@@ -1,0 +1,2 @@
+cd "F:\YouTube Playlists\Psychology"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .psychology --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhox9hPknAnjLGegj9mHXdx4

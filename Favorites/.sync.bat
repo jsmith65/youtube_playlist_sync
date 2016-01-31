@@ -1,0 +1,2 @@
+cd "F:\YouTube Playlists\Favorites"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .favorites --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=FLUYelNKeJsYPRIKoBVYi1fA

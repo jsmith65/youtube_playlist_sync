@@ -1,0 +1,2 @@
+cd "F:\YouTube Playlists\Austrian Economics"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .austrian_economics --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqqwt1UMFXGpm3GI-oAPqnl

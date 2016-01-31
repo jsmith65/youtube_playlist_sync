@@ -1,0 +1,1 @@
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .<playlist_name> --ignore-errors -f bestvideo+bestaudio <url>
