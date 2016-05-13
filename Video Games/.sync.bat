@@ -1,0 +1,2 @@
+cd "F:\YouTube Playlists\Video Games"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .video_games --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqx_bw79q-hS3W1d_9q9Uro

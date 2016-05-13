@@ -7,6 +7,7 @@ For /f "tokens=1-2 delims=/:" %%a in ("%TIME%") do (set mytime=%%a-%%b)
 	"F:\YouTube Playlists\Buggy Build\.sync.bat"
 	"F:\YouTube Playlists\Console Modding\.sync.bat"
 	"F:\YouTube Playlists\Favorites\.sync.bat"
+	"F:\YouTube Playlists\Film and Story\.sync.bat"
 	"F:\YouTube Playlists\Game Modding\.sync.bat"
 	"F:\YouTube Playlists\Inspiring Musical Performances\.sync.bat"
 	"F:\YouTube Playlists\Libertarianism\.sync.bat"
