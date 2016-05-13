@@ -19,6 +19,7 @@ For /f "tokens=1-2 delims=/:" %%a in ("%TIME%") do (set mytime=%%a-%%b)
 	"F:\YouTube Playlists\SSB Brawl\.sync.bat"
 	"F:\YouTube Playlists\SSB Melee\.sync.bat"
 	"F:\YouTube Playlists\SSB Project M\.sync.bat"
+	"F:\YouTube Playlists\Video Games\.sync.bat"
 	"F:\YouTube Playlists\Video Production\.sync.bat"
 	"F:\YouTube Playlists\YPT\.sync.bat"
 ) > "F:\YouTube Playlists\00 Logs\syncSelectedPlaylists_%mydate%_%mytime%.log" 2>&1
