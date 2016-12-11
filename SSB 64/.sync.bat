@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\SSB 64"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\SSB 64"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .ssb_64 --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhoQbtr_lf48o_p-QM-aRAUx

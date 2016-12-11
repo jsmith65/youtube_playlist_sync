@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\SSB Melee"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\SSB Melee"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .ssb_melee --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PL6A2262970D7DE686

@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Inspiring Musical Performances"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\Inspiring Musical Performances"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .inspiring_musical_performances --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqroXHTjmNG8m54klWvccVR

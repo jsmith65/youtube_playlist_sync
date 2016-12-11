@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Programming"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\Programming"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .programming --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqrjPM2zoA3_hHC8z2Fax5i

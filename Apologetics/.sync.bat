@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Apologetics\"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\Apologetics\"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .apologetics --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqy0URuhUW6_8hIU2vS8-Uy

@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Game Modding"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\Game Modding"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .game_modding --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PL26414B73FEB4819B

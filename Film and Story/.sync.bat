@@ -1,2 +1,2 @@
-cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Film and Story"
+cd "D:\Archive\Media\00 Video\YouTube Playlists\Film and Story"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .film_and_story --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhqyOsjkpsOHyVyz4iGgztoy
