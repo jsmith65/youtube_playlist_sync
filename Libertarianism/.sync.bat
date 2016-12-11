@@ -1,2 +1,2 @@
-cd "F:\YouTube Playlists\Libertarianism"
+cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Libertarianism"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .libertarianism --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLD8AFD08F4DA81597

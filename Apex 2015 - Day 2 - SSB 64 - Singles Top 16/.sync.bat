@@ -1,2 +1,2 @@
-cd "F:\YouTube Playlists\Apex 2015 - Day 2 - SSB 64 - Singles Top 16\"
+cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Apex 2015 - Day 2 - SSB 64 - Singles Top 16\"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .apex_2015_ssb_64_singles_top_16 --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLxd-2FxFQ75qKmzBnSd7DtqujI1oh4KCQ

@@ -1,2 +1,2 @@
-cd "F:\YouTube Playlists\Buggy Build"
+cd "C:\mnt\Storage\Archive\Media\00 Video\YouTube Playlists\Buggy Build"
 youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .buggy_build --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PL86F0FEA484AA6ECC
