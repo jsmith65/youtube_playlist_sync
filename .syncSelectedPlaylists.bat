@@ -11,6 +11,7 @@ For /f "tokens=1-2 delims=/:" %%a in ("%TIME%") do (set mytime=%%a-%%b)
 	"D:\Archive\Media\00 Video\YouTube Playlists\Game Modding\.sync.bat"
 	"D:\Archive\Media\00 Video\YouTube Playlists\Inspiring Musical Performances\.sync.bat"
 	"D:\Archive\Media\00 Video\YouTube Playlists\Libertarianism\.sync.bat"
+	"D:\Archive\Media\00 Video\YouTube Playlists\Lipscomb IT\.sync.bat"
 	"D:\Archive\Media\00 Video\YouTube Playlists\Minecraft\.sync.bat"
 	"D:\Archive\Media\00 Video\YouTube Playlists\Programming\.sync.bat"
 	"D:\Archive\Media\00 Video\YouTube Playlists\Psychology\.sync.bat"

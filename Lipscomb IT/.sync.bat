@@ -1,0 +1,2 @@
+cd "D:\Archive\Media\00 Video\YouTube Playlists\Lipscomb IT"
+youtube-dl --retries 4 --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --download-archive .lipscomb_it --ignore-errors -f bestvideo+bestaudio https://www.youtube.com/playlist?list=PLrml65W8DLhrddNzbp6mBjVWhIPnAX9IG
